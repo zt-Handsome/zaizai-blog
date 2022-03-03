@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img width="120" src="https://zt-handsome.github.io/zaizai-blog/img/logo.png">
 </p>
 
@@ -18,7 +18,7 @@
   <a href="https://github.com/xugaoyi/vuepress-theme-vdoing">
     <img src="https://img.shields.io/badge/vuepress--theme--vdoing-1.8.3-red" alt="vuepress-theme-vdoing">
   </a>
-</p>
+</p> -->
 
 <!-- ![](https://zt-handsome.github.io/zaizai-blog/img/blog-index.webp) -->
 <!-- ## 关于我
