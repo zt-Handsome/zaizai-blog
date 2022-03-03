@@ -1,5 +1,5 @@
 ---
 home: true
-heroText: 俊劫的学习基地
+heroText: 崽崽的小窝
 heroImage: /img/logo.png
 ---

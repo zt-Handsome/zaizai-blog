@@ -7,7 +7,7 @@ const searchThirdparty = require('./themeConfig/searchThirdparty.js');
 
 // 主题配置
 module.exports = {
-  author: "俊劫",
+  author: "崽崽",
   authorAvatar: "/img/logo.png",
   slogan: 'just do it',
   homeBlogCfg: {

@@ -11,7 +11,7 @@ module.exports = [
     "meta",
     {
       "name": "keywords",
-      "content": "俊劫,俊劫的博客,博客,个人博客,vue,vuejs,vuepress,vuepress-theme-reco"
+      "content": "崽崽,崽崽的博客,博客,个人博客,vue,vuejs,vuepress,vuepress-theme-reco"
     }
   ],
   [
