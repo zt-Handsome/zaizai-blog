@@ -1,16 +1,16 @@
 <p align="center">
-  <img width="120" src="https://alexwjj.github.io/img/logo.png">
+  <img width="120" src="https://zt-handsome.github.io/zaizai-blog/img/logo.png">
 </p>
 
 <p align="center">
-  <a href="https://alexwjj.github.io/">
+  <a href="https://zt-Handsome.github.io/">
     <img src="https://img.shields.io/badge/%E4%BF%8A%E5%8A%AB%E5%8D%9A%E5%AE%A2-5.0-blue" alt="blog">
   </a>
-  <a href="https://alexwjj.github.io/">
-    <img src="https://img.shields.io/github/stars/alexwjj/alexwjj.github.io" alt="start">
+  <a href="https://zt-Handsome.github.io/">
+    <img src="https://img.shields.io/github/stars/zt-Handsome/zt-Handsome.github.io" alt="start">
   </a>
-  <a href="https://alexwjj.github.io/">
-    <img src="https://img.shields.io/github/forks/alexwjj/alexwjj.github.io" alt="fork">
+  <a href="https://zt-Handsome.github.io/">
+    <img src="https://img.shields.io/github/forks/zt-Handsome/zt-Handsome.github.io" alt="fork">
   </a>
   <a href="https://vuepress-theme-reco.recoluan.com/">
     <img src="https://img.shields.io/badge/vuepress--theme--reco-1.x-blue" alt="vuepress-theme-reco">
@@ -20,24 +20,24 @@
   </a>
 </p>
 
-![](https://alexwjj.github.io/img/blog-index.webp)
-## 关于我
+<!-- ![](https://zt-handsome.github.io/zaizai-blog/img/blog-index.webp) -->
+<!-- ## 关于我
 
-[关于我 - 图文介绍](https://alexwjj.github.io/bookshop/linkme/)
+[关于我 - 图文介绍](https://zt-Handsome.github.io/bookshop/linkme/) -->
 
 <!-- ## 关注我
 ![wxgzh](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/35e5fb5f6e654ba88d9b6c860ff859e4~tplv-k3u1fbpfcp-watermark.image) -->
 
-## blog 4.0
-请切换分支：[20210501_blog_4.0](https://github.com/alexwjj/alexwjj.github.io/tree/20210501_blog_4.0)。当前博客5.0，2021.5.1上线。
+<!-- ## blog 4.0
+请切换分支：[20210501_blog_4.0](https://github.com/zt-Handsome/zt-Handsome.github.io/tree/20210501_blog_4.0)。当前博客5.0，2021.5.1上线。 -->
 ## 资源分享(持续更新)
 ### 1、博客
 - [阮一峰的个人网站](http://www.ruanyifeng.com/home.html)  持续更新，没事就去看看，阮大的风格就是`很容易看懂`
 - [字节飞书的学习计划 - 超清楚（必看）](https://bitable.feishu.cn/appNuDKPaGtimrdkB0JnXmpoktZ) 字节前端知识梳理，很清楚，`建议收藏`
 - [冴羽的博客](https://github.com/mqyqingfeng/Blog) 淘宝大神总结的`前端基础`
 - [Gridea](https://gridea.dev/) Gridea 是一个`静态博客`写作客户端，帮助你更容易地构建并管理博客或任何静态站点
-- [vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com/) 一款简洁而优雅的 vuepress 博客 & 文档 主题。我的[个人博客](https://alexwjj.github.io/)基于这个搭建的，有兴趣的可以了解下,博客也有`搭建教程`
-- [前端知识每日3+1](http://www.h-camel.com/index.html) 学习大佬的姿态，我也搞了个`每日学习打卡`，各位大哥可以搞起来 （[崽崽的个人博客](https://alexwjj.github.io/)）
+- [vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com/) 一款简洁而优雅的 vuepress 博客 & 文档 主题。我的[个人博客](https://zt-handsome.github.io/zaizai-blog/)基于这个搭建的，有兴趣的可以了解下,博客也有`搭建教程`
+- [前端知识每日3+1](http://www.h-camel.com/index.html) 学习大佬的姿态，我也搞了个`每日学习打卡`，各位大哥可以搞起来 （[崽崽的个人博客](https://zt-handsome.github.io/zaizai-blog/)）
 - [有赞技术团队](https://tech.youzan.com/)  `干货满满`
 
 ### 2、社区
@@ -100,7 +100,7 @@
 - [可视化拖拽组件库一些技术要点原理分析](https://juejin.cn/post/6908502083075325959) 加深自己对`可视化`的一些认识
 - [10 个 GitHub 上超火的前端面试项目](https://juejin.cn/post/6895752757534261256) 面试相关的，`收藏`搞起来
 - [前端面试常见的手写功能](https://juejin.cn/post/6873513007037546510) 准备面试，至少`来写一遍`
-- [无头浏览器 Puppeteer 初探](https://juejin.cn/post/6844903504276881422) `Puppeteer`可以帮我们做很多服务端的事情，不知道的同学去了解下。也可以看看我用Puppeteer做的产出：[Egg + Puppeteer 实现Html转PDF](https://juejin.cn/post/6907500437134376974) 在线预览：[html转pdf](http://118.25.49.69/)
+<!-- - [无头浏览器 Puppeteer 初探](https://juejin.cn/post/6844903504276881422) `Puppeteer`可以帮我们做很多服务端的事情，不知道的同学去了解下。也可以看看我用Puppeteer做的产出：[Egg + Puppeteer 实现Html转PDF](https://juejin.cn/post/6907500437134376974) 在线预览：[html转pdf](http://118.25.49.69/) -->
 - [2021年前端面试必读文章](https://juejin.cn/post/6844904116339261447) 梳理的很全面，每个知识点对应的都有`文章链接`，有些`基础`的知识点建议看`MDN`，对某些东西，每个人都有自己的理解。
 - [图解 HTTP 缓存](https://www.zoo.team/article/http-cache) `政采云`前端出品，讲的挺清楚的
 - [浏览器渲染机制](https://segmentfault.com/a/1190000014018604) 讲的`很全`

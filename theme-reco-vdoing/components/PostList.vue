@@ -122,13 +122,17 @@ export default {
 
       let posts = []
       if (this.category) {
+        console.log(1)
         posts = this.$groupPosts.categories[this.category]
       } else if (this.tag && this.tag !== 'all') {
+        console.log(2)
         posts = this.$groupPosts.tags[this.tag]
       } else {
+        console.log(3)
+        console.log(this)
         posts = this.$sortPosts
       }
-
+      console.log(posts,)
       this.sortPosts = posts.slice((currentPage - 1) * perPage, currentPage * perPage)
     }
   }

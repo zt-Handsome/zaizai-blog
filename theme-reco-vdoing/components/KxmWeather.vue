@@ -11,7 +11,7 @@
       <div class="weather-content">
         <iframe width="240" scrolling="no" height="70" frameborder="0" allowtransparency="true" src="https://i.tianqi.com?c=code&id=8&color=%233eaf7c&icon=1&site=14"></iframe>
       </div>
-      <div class="weather-footer">
+      <!-- <div class="weather-footer">
         <div class="tips">技术交流、内推、外包等欢迎加V进群</div>
         <div class="qrcode">
           <img v-show="isWechat" :src="$withBase('/img/wechat.png')" alt="摸鱼群" height="250px">
@@ -22,7 +22,7 @@
           <span class="toggle-2" :class="{'actived': !isWechat}" @click="toggleQrcode(false)">微信</span>
           <span class="toggle-bg" :class="{'actived': !isWechat}"></span>
         </div>
-      </div>
+      </div> -->
     </div>
   </ModuleTransition>
 </template>

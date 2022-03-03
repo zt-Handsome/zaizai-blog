@@ -17,6 +17,6 @@ git add -A
 git commit -m 'depoly脚本更新'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f https://github.com/alexwjj/alexwjj.github.io.git master
+git push -f https://github.com/zt-Handsome/zt-Handsome.github.io.git master
 
 cd -

@@ -3,7 +3,7 @@
   <div class="footer-wrapper">
     <span class="footer-reco-theme">
       <reco-icon icon="reco-github" />
-      <a target="blank" href="https://github.com/alexwjj/alexwjj.github.io">alexwjj.github.io@5.0</a>
+      <a target="blank" href="https://github.com/zt-Handsome/zaizai-blog">https://github.com/zt-Handsome/zaizai-blog</a>
     </span>
     <span v-if="$themeConfig.record">
       <reco-icon icon="reco-beian" />
